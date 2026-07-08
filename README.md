@@ -24,4 +24,17 @@
 ## 📫 Connect with me
 GitHub: https://github.com/singhshagunbca-code
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhshagunbca-code&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhshagunbca-code&theme=tokyonight" height="180"/>
+</p>
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshagunbca-code&layout=compact&theme=tokyonight"/>
+</p>
+
 ⭐ Thanks for visiting my profile!
