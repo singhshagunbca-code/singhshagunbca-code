@@ -3,11 +3,11 @@
 🎓 BCA Student from Gujarat, India
 
 💻 Currently Learning:
-- HTML
-- C++
-- Python
-- SQL
-- Git & GitHub
+   ## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,cpp,python,mysql,git,github,vscode" />
+</p>
 
 🌱 Current Goal
 - Become a Full Stack Web Developer
