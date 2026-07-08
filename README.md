@@ -44,7 +44,8 @@ GitHub: https://github.com/singhshagunbca-code
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=singhshagunbca-code&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-## 👀 Profile Views
+
+ ## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=singhshagunbca-code&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
