@@ -4,7 +4,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=BCA+Student;Learning+Web+Development;HTML+%7C+CSS+%7C+C%2B%2B;Python+%7C+SQL;Future+Full+Stack+Developer" />
 </p>
 
-🎓 BCA Student from Gujarat, India
+🎓 Second-Year BCA Student
+💻 Aspiring Full Stack Developer
+🌱 Learning Web Development and Programming
+📍 Gujarat, India
 
 💻 Currently Learning:
    ## 🛠️ Tech Stack
