@@ -13,7 +13,7 @@
 - HTML & CSS
 - Python
 - SQL
-- JavaScript (Next)
+- JavaScript 
    ## 🛠️ Tech Stack
 
 <p>
@@ -24,7 +24,7 @@
 - Become a Full Stack Web Developer
 - Build amazing projects
 - Get an internship
-- 
+
 ## 📂 My Projects
 
 - 🌐 [Personal Portfolio Website](https://singhshagunbca-code.github.io/portfolio-website/)
