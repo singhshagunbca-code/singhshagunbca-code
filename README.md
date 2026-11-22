@@ -26,15 +26,15 @@
 - Get an internship
 
 ## 📂 My Projects
-1. Personal Portfolio Website
-Built using HTML
-Live Website
-Source Code
-2. Student Record Management System
-Built using Python
-A CLI application to add, view, search, update and delete student records.
-View Project
 
+### 🌐 Personal Portfolio Website
+- [Live Website](https://singhshagunbca-code.github.io/portfolio-website/)
+- [View Source Code](https://github.com/singhshagunbca-code/portfolio-website)
+
+### 🎓 Student Record Management System
+- Python CLI application
+- Features: Add, View, Search, Update and Delete student records.
+- [View Source Code](https://github.com/singhshagunbca-code/student-record-management)
 ## 📫 Connect with me
 GitHub: https://github.com/singhshagunbca-code
 
