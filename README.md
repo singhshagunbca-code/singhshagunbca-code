@@ -10,6 +10,10 @@
 📍 Gujarat, India
 
 💻 Currently Learning:
+- HTML & CSS
+- Python
+- SQL
+- JavaScript (Next)
    ## 🛠️ Tech Stack
 
 <p>
