@@ -26,13 +26,9 @@
 - Get an internship
 
 ## 📂 My Projects
-
 - 🌐 [Personal Portfolio Website](https://singhshagunbca-code.github.io/portfolio-website/)
   - Built using HTML
   - [View Source Code](https://github.com/singhshagunbca-code/portfolio-website)
-
-- 🐍 Student Record Management System
-  - Built using Python
 
 ## 📫 Connect with me
 GitHub: https://github.com/singhshagunbca-code
